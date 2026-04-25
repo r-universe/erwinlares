@@ -5,3 +5,6 @@
 [submodule "containr"]
 	path = containr
 	url = https://github.com/erwinlares/containr
+[submodule "toolero"]
+	path = toolero
+	url = https://github.com/erwinlares/toolero
