@@ -1,0 +1,10 @@
+{
+  "id": 127645289,
+  "created_at": "2026-04-27T23:12:51.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["containr", "toolero"]
+}
