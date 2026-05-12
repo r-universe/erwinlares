@@ -5,6 +5,12 @@
 [submodule "containr"]
 	path = containr
 	url = https://github.com/erwinlares/containr
+[submodule "curriculr"]
+	path = curriculr
+	url = https://github.com/erwinlares/curriculr
+[submodule "submitr"]
+	path = submitr
+	url = https://github.com/erwinlares/submitr
 [submodule "toolero"]
 	path = toolero
 	url = https://github.com/erwinlares/toolero
